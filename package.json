@@ -1,5 +1,5 @@
 {
-  "name": "angulartodo",
+  "name": "anchor",
   "version": "1.0.0",
   "description": "Simple todo application with AngularJS",
   "main": "server.js",
